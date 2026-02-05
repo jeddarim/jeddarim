@@ -1,7 +1,7 @@
 # Hi, I'm Rim Jedda 👋
 
 💻 Full Stack Developer (Laravel + React)  
-📍 Romania | Open to Remote roles  
+📍 Romania | Open to Remote and Hybrid roles across Europe  
 
 I build scalable SaaS platforms, fintech systems, and payment solutions with clean architecture and DevOps best practices.
 
