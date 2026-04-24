@@ -9,10 +9,14 @@ Specialized in Laravel, React, and cloud-based architectures.
 ---
 
 ## 🚀 Tech Stack
-Frontend: React, TypeScript, Redux, Tailwind  
-Backend: Laravel, PHP, REST APIs, JWT  
+Frontend: React, Redux, TypeScript, JavaScript, Tailwind CSS
+Backend: Laravel 10, PHP 8, REST API, JWT, OAuth2
 Database: MySQL, PostgreSQL, MongoDB, Redis  
-DevOps: Docker, Kubernetes, Linux  
+DevOps: Docker, Kubernetes, LENS, Linux
+Testing & Documentation: Postman, Swagger, Laravel Telescope, Confluence
+Methodologies & Tools: Agile Scrum, Git, Bitbucket, Jira, MeisterTask, Linux
+SaaS & CRM: Multi-tenant architecture, customizable solutions, third-party API integrations (Stripe, WebSocket,
+internal services)
 
 ---
 
