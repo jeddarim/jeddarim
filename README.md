@@ -10,7 +10,7 @@ I build scalable SaaS platforms, fintech systems, and payment solutions with cle
 ## 🚀 Tech Stack
 Frontend: React, TypeScript, Redux, Tailwind  
 Backend: Laravel, PHP, REST APIs, JWT  
-Database: MySQL, PostgreSQL, Redis  
+Database: MySQL, PostgreSQL, MongoDB, Redis  
 DevOps: Docker, Kubernetes, Linux  
 
 ---
